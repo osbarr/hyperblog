@@ -9,5 +9,6 @@ Un blog increíble para el curso de git y github.
 * Flujo de trabajo profesional en Github.
 * Creado por el increíble Oscar Barrón
 * Incluye ejemplos en distintos SOs
+* Disponible para todas las edades
 
 **Osbarr 2020**
