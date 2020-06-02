@@ -7,5 +7,6 @@ Un blog increíble para el curso de git y github.
 * Qué es git y github y para qué sirve
 * Todos los comandos de Git
 * Flujo de trabajo profesional en Github.
+* Creado por el increíble Oscar Barrón
 
 **Osbarr 2020**
